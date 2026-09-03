@@ -30,10 +30,10 @@ to itself.
 
 ## Entries
 
-1. [The blind loop](01-the-blind-loop.md)
-2. [The false green](02-the-false-green.md)
-3. [The escaped commit gate](03-the-escaped-commit-gate.md)
-4. [Hands beyond mandate](04-hands-beyond-mandate.md)
+1. [The blind loop](entries/01-the-blind-loop.md)
+2. [The false green](entries/02-the-false-green.md)
+3. [The escaped commit gate](entries/03-the-escaped-commit-gate.md)
+4. [Hands beyond mandate](entries/04-hands-beyond-mandate.md)
 
 ## License
 
